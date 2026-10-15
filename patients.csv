@@ -1,0 +1,6 @@
+Patient_ID,Name,Age,Gender,Problem,Priority,Token,Registration_Time,Consultation_Time,Status
+P101,Rahul Sharma,25,Male,Fever & Cough,Normal,1,2026-09-17 09:00:00,,Waiting
+P102,Sneha Patil,45,Female,Severe Chest Pain,Emergency,2,2026-09-17 09:05:00,,Waiting
+P103,Amit Verma,32,Male,Migraine Headache,Normal,3,2026-09-17 09:10:00,,Waiting
+P104,Priya Kulkarni,60,Female,Fracture / Acute Injury,Emergency,4,2026-09-17 09:15:00,,Waiting
+P100,Vikas Joshi,50,Male,High Blood Pressure,Normal,0,2026-09-17 08:30:00,2026-09-17 08:50:00,Consulted
